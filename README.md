@@ -11,6 +11,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Nexacro](https://img.shields.io/badge/Nexacro-007396?style=for-the-badge&logo=nexacro&logoColor=white)
 
 <!--
 **minimanimox/minimanimox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
