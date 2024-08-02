@@ -12,7 +12,6 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 <!--
 **minimanimox/minimanimox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
